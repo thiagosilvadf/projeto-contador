@@ -8,6 +8,14 @@ header {
     text-align: center;
 }
 
+a {
+    color: white;
+}
+
+a:hover {
+    color: rgba(0, 0, 255, 0.534);
+}
+
 section {
     background-color: white;
     border-radius: 10px;
